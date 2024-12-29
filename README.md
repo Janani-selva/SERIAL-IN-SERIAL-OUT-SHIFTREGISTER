@@ -56,11 +56,10 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 
 **PROGRAM**
-
-Developed by:Abinya.A
-
-RegisterNumber:212223040003
-
+```
+Developed by: Janani S
+RegisterNumber: 24901127
+```
 
 ```
 module EXP10(clk, sin, q);
@@ -79,7 +78,6 @@ endmodule
 ```
 
 
-
 **RTL LOGIC FOR SISO Shift Register**
 
 
@@ -96,7 +94,6 @@ endmodule
 
 
 **RESULTS**
-
 
 
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
